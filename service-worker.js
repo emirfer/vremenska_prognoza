@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/vremenska_prognoza/precache-manifest.0560eb8e889176d283564cccd0a05edd.js"
+  "/vremenska_prognoza/precache-manifest.2efe4e918f8e4b5110c22ecc6a760df1.js"
 );
 
 self.addEventListener('message', (event) => {

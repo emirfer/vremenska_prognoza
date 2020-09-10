@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c0e997e1ba9f0fa57c9aa8d43930d746",
+    "revision": "b945cca1952d49ff30a99e8028a1b824",
     "url": "/vremenska_prognoza/index.html"
   },
   {
-    "revision": "016f32cfd6a587506f66",
+    "revision": "c4c88a66e5eebbd18314",
     "url": "/vremenska_prognoza/static/css/main.86aafdc7.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vremenska_prognoza/static/js/2.e014e06c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "016f32cfd6a587506f66",
-    "url": "/vremenska_prognoza/static/js/main.571a665b.chunk.js"
+    "revision": "c4c88a66e5eebbd18314",
+    "url": "/vremenska_prognoza/static/js/main.3b5a44c7.chunk.js"
   },
   {
     "revision": "4ada4034f79f8740b0ee",
